@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\bin\Debug\WeatherWithAPI.exe.config
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\bin\Debug\WeatherWithAPI.exe
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\bin\Debug\WeatherWithAPI.pdb
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\obj\Debug\WeatherWithAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\obj\Debug\WeatherWithAPI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\obj\Debug\WeatherWithAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\obj\Debug\WeatherWithAPI.exe
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\obj\Debug\WeatherWithAPI.pdb
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\WeatherWithAPI\WeatherWithAPI\obj\Debug\WeatherWithAPI.csproj.CopyComplete
